@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 conflict line from b2
+=======
+Initial content
+Added from GitHub
+modifiy the file
+>>>>>>> 30f6c0454d132c7879a7a0bbc235e258905f19b6
